@@ -1,5 +1,5 @@
 Privacy Policy for SyncVia
-Last updated: 9 July 2026
+Last updated: 23 July 2026
 
 SyncVia is an app for shared planning, booking and resource overview for families and small groups.
 
@@ -78,4 +78,4 @@ Contact
 
 For questions or data deletion requests, contact:
 
-eriksen.christer@gmail.com
+support@syncvia.no
